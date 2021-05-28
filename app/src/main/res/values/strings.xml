@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Employees App</string>
+    <string name="item_employee_photo">employee_photo</string>
+</resources>
